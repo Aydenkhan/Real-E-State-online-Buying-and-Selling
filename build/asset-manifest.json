@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6811654e.css",
+    "main.js": "/static/js/main.5b19ffc8.js",
+    "static/js/787.bedb50ca.chunk.js": "/static/js/787.bedb50ca.chunk.js",
+    "static/media/kashif.jpg": "/static/media/kashif.cbcd1e040cf93117c459.jpg",
+    "static/media/about4.jpg": "/static/media/about4.f7bbbfdafe0313140a64.jpg",
+    "static/media/about4105320225314.jpg": "/static/media/about4105320225314.f7bbbfdafe0313140a64.jpg",
+    "static/media/about7.jpg": "/static/media/about7.6adad761523ab8d0be21.jpg",
+    "static/media/about7103720223738.jpg": "/static/media/about7103720223738.6adad761523ab8d0be21.jpg",
+    "static/media/about2.jpg": "/static/media/about2.a00f09a1672b297ddd06.jpg",
+    "static/media/about2103720223730.jpg": "/static/media/about2103720223730.a00f09a1672b297ddd06.jpg",
+    "static/media/aboutjpg": "/static/media/about2103720223730101920221940.a00f09a1672b297ddd06.jpg",
+    "static/media/about5.jpg": "/static/media/about5.4eb6cb7f46b39e7c237e.jpg",
+    "static/media/about5103820223800.jpg": "/static/media/about5103820223800.4eb6cb7f46b39e7c237e.jpg",
+    "static/media/about5104620224622.jpg": "/static/media/about5104620224622.4eb6cb7f46b39e7c237e.jpg",
+    "static/media/about5105320225335.jpg": "/static/media/about5105320225335.4eb6cb7f46b39e7c237e.jpg",
+    "static/media/about.jpg": "/static/media/about.fcddaff14fc8642af398.jpg",
+    "static/media/about3.jpg": "/static/media/about3.43de3811ceb713200992.jpg",
+    "static/media/adil.jpeg": "/static/media/adil.eefa91bb03da4eb107dd.jpeg",
+    "static/media/md.jpg": "/static/media/md.35b7a7d28a850fe62c92.jpg",
+    "static/media/booking.png": "/static/media/booking.44dd82c2ecad0e000b79.png",
+    "static/media/signup-bg.jpg": "/static/media/signup-bg.1b2c57b45e8f4961c41f.jpg",
+    "static/media/login1.jpeg": "/static/media/login1.3b3dd3ff6fa96d8338c2.jpeg",
+    "static/media/bg-registration-form-7.jpg": "/static/media/bg-registration-form-7.3ccc305efe438383ab64.jpg",
+    "static/media/bg-registration-form-7104520224520.jpg": "/static/media/bg-registration-form-7104520224520.3ccc305efe438383ab64.jpg",
+    "static/media/login.jpeg": "/static/media/login.c3d1155c56c7200dd859.jpeg",
+    "index.html": "/index.html",
+    "main.6811654e.css.map": "/static/css/main.6811654e.css.map",
+    "main.5b19ffc8.js.map": "/static/js/main.5b19ffc8.js.map",
+    "787.bedb50ca.chunk.js.map": "/static/js/787.bedb50ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6811654e.css",
+    "static/js/main.5b19ffc8.js"
+  ]
+}
